@@ -1,10 +1,6 @@
 #Code Book for Course Project
 
-This code book explains the data fields of finalTidyData.txt .
-
-====
-
-The activities are:
+This code book explains the data fields of `finalTidyData.txt` .
 
 ## Identifiers
 

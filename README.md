@@ -14,11 +14,11 @@ Origianl data repository: [The UCI Machine Learning Repository](http://archive.i
 
 ## Analysis
 
-The modifications and analysis done by R Script `run_analysis.R` is explained by following sections.
+The modifications and analysis done by R Script `run_analysis.R` is explained in following sections.
 
 ### Part 0 
 
-The files used to load data for further analysis are:
+The files used to load data for analysis are:
 
 
 * `test/subject_test.txt`  
@@ -28,11 +28,12 @@ The files used to load data for further analysis are:
 * `train/X_train.txt`  
 * `train/y_train.txt`  
 * `activity_labels.txt`
+* `features.txt`
 
-Read these data from these files to variables.  
+Read data from these files to variables.  
 Look at the specifications of the data by running `ncol`, `nrow`, `str` and `names` functions on the variables.  
 
-Name the columns of the data sets.
+Name the columns of the data sets using `colnames` or `setNames`.
 
 ### Part 1
 
@@ -50,7 +51,6 @@ Name the columns of the data sets.
 
 * Use `factor` function to replace `activityId` with `activityNames`.  
 
-
 ### Part 4
 
 * Some of the measurements have descriptive labels in their names.
@@ -65,10 +65,18 @@ Name the columns of the data sets.
 
 ### Part 5
 
-* Melt the data to `activityId` and `subjectId`.
-* Use `dcast` on molten data set to calculate mean.  
+* load `reshape2` package.
+* Melt the data by `activityId` and `subjectId` variables.
+* Use `dcast` on molten data set to calculate mean.
 
 
 ### Part 6
 
 * Use `write.table` to write data frame to `finalTidyData.txt` with `row.names = F`.
+
+
+## Packages used
+
+* `r-base`
+* `reshape2`
+* `dplyr`

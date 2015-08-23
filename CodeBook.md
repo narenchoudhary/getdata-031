@@ -7,7 +7,7 @@ This code book explains the data fields of `finalTidyData.txt` .
 * `subjectId` - The ID of the subject (volunteer) of the test
 * `activityId` - The ID of the activity performed 
 
-## Measurments
+## Measurements
 
 *`timeBodyAccelerometermeanX`
 

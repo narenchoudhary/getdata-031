@@ -14,7 +14,7 @@ Origianl data repository: [The UCI Machine Learning Repository](http://archive.i
 
 ## Analysis
 
-The modifications and analysis done by R Script `run_analysis.R` is explained by following sections.
+The modifications and analysis done by R Script `run_analysis.R` is explained in following sections.
 
 ### Part 0 
 

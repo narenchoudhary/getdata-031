@@ -9,14 +9,14 @@ This code book explains the data fields of `finalTidyData.txt` .
 
 ## Measurments
 
-*`timeBodyAccelerometermeanX`
-*`timeBodyAccelerometermeanY`
-*`timeBodyAccelerometermeanZ`
-*`timeBodyAccelerometerstdX`
-*`timeBodyAccelerometerstdY`
-*`timeBodyAccelerometerstdZ`
-*`timeGravityAccelerometermeanX`
-*`timeGravityAccelerometermeanY`
+* `timeBodyAccelerometermeanX`
+* `timeBodyAccelerometermeanY`
+* `timeBodyAccelerometermeanZ`
+* `timeBodyAccelerometerstdX`
+* `timeBodyAccelerometerstdY`
+* `timeBodyAccelerometerstdZ`
+* `timeGravityAccelerometermeanX`
+* `timeGravityAccelerometermeanY`
 *`timeGravityAccelerometermeanZ`
 *`timeGravityAccelerometerstdX`
 *`timeGravityAccelerometerstdY`

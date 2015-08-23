@@ -9,87 +9,162 @@ This code book explains the data fields of `finalTidyData.txt` .
 
 ## Measurments
 
-* `timeBodyAccelerometermeanX`
+*`timeBodyAccelerometermeanX`
 
-* `timeBodyAccelerometermeanY`
+*`timeBodyAccelerometermeanY`
 
-* `timeBodyAccelerometermeanZ`
+*`timeBodyAccelerometermeanZ`
 
-* `timeBodyAccelerometerstdX`
-* `timeBodyAccelerometerstdY`
-* `timeBodyAccelerometerstdZ`
-* `timeGravityAccelerometermeanX`
-* `timeGravityAccelerometermeanY`
+*`timeBodyAccelerometerstdX`
+
+*`timeBodyAccelerometerstdY`
+
+*`timeBodyAccelerometerstdZ`
+
+*`timeGravityAccelerometermeanX`
+
+*`timeGravityAccelerometermeanY`
+
 *`timeGravityAccelerometermeanZ`
+
 *`timeGravityAccelerometerstdX`
+
 *`timeGravityAccelerometerstdY`
+
 *`timeGravityAccelerometerstdZ`
+
 *`timeBodyAccelerometerJerkmeanX`
+
 *`timeBodyAccelerometerJerkmeanY`
+
 *`timeBodyAccelerometerJerkmeanZ`
+
 *`timeBodyAccelerometerJerkstdX`
+
 *`timeBodyAccelerometerJerkstdY`
+
 *`timeBodyAccelerometerJerkstdZ`
+
 *`timeBodyGyrometermeanX`
+
 *`timeBodyGyrometermeanY`
+
 *`timeBodyGyrometermeanZ`
+
 *`timeBodyGyrometerstdX`
+
 *`timeBodyGyrometerstdY`
+
 *`timeBodyGyrometerstdZ`
+
 *`timeBodyGyrometerJerkmeanX`
+
 *`timeBodyGyrometerJerkmeanY`
+
 *`timeBodyGyrometerJerkmeanZ`
+
 *`timeBodyGyrometerJerkstdX`
+
 *`timeBodyGyrometerJerkstdY`
+
 *`timeBodyGyrometerJerkstdZ`
+
 *`timeBodyAccelerometerMagnitudemean`
+
 *`timeBodyAccelerometerMagnitudestd`
+
 *`timeGravityAccelerometerMagnitudemean`
+
 *`timeGravityAccelerometerMagnitudestd`
+
 *`timeBodyAccelerometerJerkMagnitudemean`
+
 *`timeBodyAccelerometerJerkMagnitudestd`
+
 *`timeBodyGyrometerMagnitudemean`
+
 *`timeBodyGyrometerMagnitudestd`
+
 *`timeBodyGyrometerJerkMagnitudemean`
+
 *`timeBodyGyrometerJerkMagnitudestd`
+
 *`frequencyBodyAccelerometermeanX`
+
 *`frequencyBodyAccelerometermeanY`
+
 *`frequencyBodyAccelerometermeanZ`
+
 *`frequencyBodyAccelerometerstdX`
+
 *`frequencyBodyAccelerometerstdY`
+
 *`frequencyBodyAccelerometerstdZ`
+
 *`frequencyBodyAccelerometermeanFreqX`
+
 *`frequencyBodyAccelerometermeanFreqY`
+
 *`frequencyBodyAccelerometermeanFreqZ`
+
 *`frequencyBodyAccelerometerJerkmeanX`
+
 *`frequencyBodyAccelerometerJerkmeanY`
+
 *`frequencyBodyAccelerometerJerkmeanZ`
+
 *`frequencyBodyAccelerometerJerkstdX`
+
 *`frequencyBodyAccelerometerJerkstdY`
+
 *`frequencyBodyAccelerometerJerkstdZ`
+
 *`frequencyBodyAccelerometerJerkmeanFreqX`
+
 *`frequencyBodyAccelerometerJerkmeanFreqY`
+
 *`frequencyBodyAccelerometerJerkmeanFreqZ`
+
 *`frequencyBodyGyrometermeanX`
+
 *`frequencyBodyGyrometermeanY`
+
 *`frequencyBodyGyrometermeanZ`
+
 *`frequencyBodyGyrometerstdX`
+
 *`frequencyBodyGyrometerstdY`
+
 *`frequencyBodyGyrometerstdZ`
+
 *`frequencyBodyGyrometermeanFreqX`
+
 *`frequencyBodyGyrometermeanFreqY`
+
 *`frequencyBodyGyrometermeanFreqZ`
+
 *`frequencyBodyAccelerometerMagnitudemean`
+
 *`frequencyBodyAccelerometerMagnitudestd`
+
 *`frequencyBodyAccelerometerMagnitudemeanFreq`
+
 *`frequencyBodyAccelerometerJerkMagnitudemean`
+
 *`frequencyBodyAccelerometerJerkMagnitudestd`
+
 *`frequencyBodyAccelerometerJerkMagnitudemeanFreq`
+
 *`frequencyBodyGyrometerMagnitudemean`
+
 *`frequencyBodyGyrometerMagnitudestd`
+
 *`frequencyBodyGyrometerMagnitudemeanFreq`
+
 *`frequencyBodyGyrometerJerkMagnitudemean`
+
 *`frequencyBodyGyrometerJerkMagnitudestd`
+
 *`frequencyBodyGyrometerJerkMagnitudemeanFreq`
 
 ## Activity Lables

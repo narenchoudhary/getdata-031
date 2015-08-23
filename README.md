@@ -1,4 +1,4 @@
-# getdata-031
+# getdata-031 Course Project
 Getting and Cleaning Data Course Project Repository
 
 ## Objective
@@ -8,7 +8,9 @@ The goal is to prepare tidy data from the data provided by the source.
 ## Data
 Human Activity Recognition Using Smartphones Dataset  
 
-Data Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+Data : [getdata-031 Course Project Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
+
+Origianl data repository: [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)  
 
 ## Analysis
 
@@ -40,7 +42,7 @@ Name the columns of the data sets.
 
 * Create logical vector to filter out the required columns out of merged data set.
 * Only `Mean` and `Stand deviation` measurements are required.
-* Keep 'activityId' and `subjectId` identifiers also for taking averages in Part 5.
+* Keep `activityId` and `subjectId` identifiers also for taking averages in Part 5.
 
 ### Part 3
 
@@ -61,8 +63,8 @@ Name the columns of the data sets.
 
 ### Part 5
 
-* Melt the data to `activityId` and `subjectId`
-* Use `dcast` on molten data set to calculate mean 
+* Melt the data to `activityId` and `subjectId`.
+* Use `dcast` on molten data set to calculate mean.  
 
 
 ### Part 6

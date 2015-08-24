@@ -9,163 +9,163 @@ This code book explains the data fields of `finalTidyData.txt` .
 
 ## Measurements
 
-*`timeBodyAccelerometermeanX`
+* `timeBodyAccelerometermeanX`
 
-*`timeBodyAccelerometermeanY`
+* `timeBodyAccelerometermeanY`
 
-*`timeBodyAccelerometermeanZ`
+* `timeBodyAccelerometermeanZ`
 
-*`timeBodyAccelerometerstdX`
+* `timeBodyAccelerometerstdX`
 
-*`timeBodyAccelerometerstdY`
+* `timeBodyAccelerometerstdY`
 
-*`timeBodyAccelerometerstdZ`
+* `timeBodyAccelerometerstdZ`
 
-*`timeGravityAccelerometermeanX`
+* `timeGravityAccelerometermeanX`
 
-*`timeGravityAccelerometermeanY`
+* `timeGravityAccelerometermeanY`
 
-*`timeGravityAccelerometermeanZ`
+* `timeGravityAccelerometermeanZ`
 
-*`timeGravityAccelerometerstdX`
+* `timeGravityAccelerometerstdX`
 
-*`timeGravityAccelerometerstdY`
+* `timeGravityAccelerometerstdY`
 
-*`timeGravityAccelerometerstdZ`
+* `timeGravityAccelerometerstdZ`
 
-*`timeBodyAccelerometerJerkmeanX`
+* `timeBodyAccelerometerJerkmeanX`
 
-*`timeBodyAccelerometerJerkmeanY`
+* `timeBodyAccelerometerJerkmeanY`
 
-*`timeBodyAccelerometerJerkmeanZ`
+* `timeBodyAccelerometerJerkmeanZ`
 
-*`timeBodyAccelerometerJerkstdX`
+* `timeBodyAccelerometerJerkstdX`
 
-*`timeBodyAccelerometerJerkstdY`
+* `timeBodyAccelerometerJerkstdY`
 
-*`timeBodyAccelerometerJerkstdZ`
+* `timeBodyAccelerometerJerkstdZ`
 
-*`timeBodyGyrometermeanX`
+* `timeBodyGyrometermeanX`
 
-*`timeBodyGyrometermeanY`
+* `timeBodyGyrometermeanY`
 
-*`timeBodyGyrometermeanZ`
+* `timeBodyGyrometermeanZ`
 
-*`timeBodyGyrometerstdX`
+* `timeBodyGyrometerstdX`
 
-*`timeBodyGyrometerstdY`
+* `timeBodyGyrometerstdY`
 
-*`timeBodyGyrometerstdZ`
+* `timeBodyGyrometerstdZ`
 
-*`timeBodyGyrometerJerkmeanX`
+* `timeBodyGyrometerJerkmeanX`
 
-*`timeBodyGyrometerJerkmeanY`
+* `timeBodyGyrometerJerkmeanY`
 
-*`timeBodyGyrometerJerkmeanZ`
+* `timeBodyGyrometerJerkmeanZ`
 
-*`timeBodyGyrometerJerkstdX`
+* `timeBodyGyrometerJerkstdX`
 
-*`timeBodyGyrometerJerkstdY`
+* `timeBodyGyrometerJerkstdY`
 
-*`timeBodyGyrometerJerkstdZ`
+* `timeBodyGyrometerJerkstdZ`
 
-*`timeBodyAccelerometerMagnitudemean`
+* `timeBodyAccelerometerMagnitudemean`
 
-*`timeBodyAccelerometerMagnitudestd`
+* `timeBodyAccelerometerMagnitudestd`
 
-*`timeGravityAccelerometerMagnitudemean`
+* `timeGravityAccelerometerMagnitudemean`
 
-*`timeGravityAccelerometerMagnitudestd`
+* `timeGravityAccelerometerMagnitudestd`
 
-*`timeBodyAccelerometerJerkMagnitudemean`
+* `timeBodyAccelerometerJerkMagnitudemean`
 
-*`timeBodyAccelerometerJerkMagnitudestd`
+* `timeBodyAccelerometerJerkMagnitudestd`
 
-*`timeBodyGyrometerMagnitudemean`
+* `timeBodyGyrometerMagnitudemean`
 
-*`timeBodyGyrometerMagnitudestd`
+* `timeBodyGyrometerMagnitudestd`
 
-*`timeBodyGyrometerJerkMagnitudemean`
+* `timeBodyGyrometerJerkMagnitudemean`
 
-*`timeBodyGyrometerJerkMagnitudestd`
+* `timeBodyGyrometerJerkMagnitudestd`
 
-*`frequencyBodyAccelerometermeanX`
+* `frequencyBodyAccelerometermeanX`
 
-*`frequencyBodyAccelerometermeanY`
+* `frequencyBodyAccelerometermeanY`
 
-*`frequencyBodyAccelerometermeanZ`
+* `frequencyBodyAccelerometermeanZ`
 
-*`frequencyBodyAccelerometerstdX`
+* `frequencyBodyAccelerometerstdX`
 
-*`frequencyBodyAccelerometerstdY`
+* `frequencyBodyAccelerometerstdY`
 
-*`frequencyBodyAccelerometerstdZ`
+* `frequencyBodyAccelerometerstdZ`
 
-*`frequencyBodyAccelerometermeanFreqX`
+* `frequencyBodyAccelerometermeanFreqX`
 
-*`frequencyBodyAccelerometermeanFreqY`
+* `frequencyBodyAccelerometermeanFreqY`
 
-*`frequencyBodyAccelerometermeanFreqZ`
+* `frequencyBodyAccelerometermeanFreqZ`
 
-*`frequencyBodyAccelerometerJerkmeanX`
+* `frequencyBodyAccelerometerJerkmeanX`
 
-*`frequencyBodyAccelerometerJerkmeanY`
+* `frequencyBodyAccelerometerJerkmeanY`
 
-*`frequencyBodyAccelerometerJerkmeanZ`
+* `frequencyBodyAccelerometerJerkmeanZ`
 
-*`frequencyBodyAccelerometerJerkstdX`
+* `frequencyBodyAccelerometerJerkstdX`
 
-*`frequencyBodyAccelerometerJerkstdY`
+* `frequencyBodyAccelerometerJerkstdY`
 
-*`frequencyBodyAccelerometerJerkstdZ`
+* `frequencyBodyAccelerometerJerkstdZ`
 
-*`frequencyBodyAccelerometerJerkmeanFreqX`
+* `frequencyBodyAccelerometerJerkmeanFreqX`
 
-*`frequencyBodyAccelerometerJerkmeanFreqY`
+* `frequencyBodyAccelerometerJerkmeanFreqY`
 
-*`frequencyBodyAccelerometerJerkmeanFreqZ`
+* `frequencyBodyAccelerometerJerkmeanFreqZ`
 
-*`frequencyBodyGyrometermeanX`
+* `frequencyBodyGyrometermeanX`
 
-*`frequencyBodyGyrometermeanY`
+* `frequencyBodyGyrometermeanY`
 
-*`frequencyBodyGyrometermeanZ`
+* `frequencyBodyGyrometermeanZ`
 
-*`frequencyBodyGyrometerstdX`
+* `frequencyBodyGyrometerstdX`
 
-*`frequencyBodyGyrometerstdY`
+* `frequencyBodyGyrometerstdY`
 
-*`frequencyBodyGyrometerstdZ`
+* `frequencyBodyGyrometerstdZ`
 
-*`frequencyBodyGyrometermeanFreqX`
+* `frequencyBodyGyrometermeanFreqX`
 
-*`frequencyBodyGyrometermeanFreqY`
+* `frequencyBodyGyrometermeanFreqY`
 
-*`frequencyBodyGyrometermeanFreqZ`
+* `frequencyBodyGyrometermeanFreqZ`
 
-*`frequencyBodyAccelerometerMagnitudemean`
+* `frequencyBodyAccelerometerMagnitudemean`
 
-*`frequencyBodyAccelerometerMagnitudestd`
+* `frequencyBodyAccelerometerMagnitudestd`
 
-*`frequencyBodyAccelerometerMagnitudemeanFreq`
+* `frequencyBodyAccelerometerMagnitudemeanFreq`
 
-*`frequencyBodyAccelerometerJerkMagnitudemean`
+* `frequencyBodyAccelerometerJerkMagnitudemean`
 
-*`frequencyBodyAccelerometerJerkMagnitudestd`
+* `frequencyBodyAccelerometerJerkMagnitudestd`
 
-*`frequencyBodyAccelerometerJerkMagnitudemeanFreq`
+* `frequencyBodyAccelerometerJerkMagnitudemeanFreq`
 
-*`frequencyBodyGyrometerMagnitudemean`
+* `frequencyBodyGyrometerMagnitudemean`
 
-*`frequencyBodyGyrometerMagnitudestd`
+* `frequencyBodyGyrometerMagnitudestd`
 
-*`frequencyBodyGyrometerMagnitudemeanFreq`
+* `frequencyBodyGyrometerMagnitudemeanFreq`
 
-*`frequencyBodyGyrometerJerkMagnitudemean`
+* `frequencyBodyGyrometerJerkMagnitudemean`
 
-*`frequencyBodyGyrometerJerkMagnitudestd`
+* `frequencyBodyGyrometerJerkMagnitudestd`
 
-*`frequencyBodyGyrometerJerkMagnitudemeanFreq`
+* `frequencyBodyGyrometerJerkMagnitudemeanFreq`
 
 ## Activity Lables
 
